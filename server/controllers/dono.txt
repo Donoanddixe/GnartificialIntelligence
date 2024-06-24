@@ -1,0 +1,3 @@
+Do this every 12 hours in your controllers terminal:
+
+aws sso login --profile dono
